@@ -1,6 +1,6 @@
 ![Hello](Hello.gif)
 
-<h1 align="center">👋 Hi, I’m @Awesome-sharma</h1>
+<h1 align="center">👋 Hi, I’m Ayush Sharma</h1>
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Awesome-sharma&layout=compact&hide=html&theme=jolly" alt="Awesome-sharma" />&nbsp;&nbsp;&nbsp;&nbsp;
